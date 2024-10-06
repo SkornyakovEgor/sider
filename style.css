@@ -9,7 +9,7 @@
   width: 130px;
   height: 55px;
   display: flex;
-  gap: 3px;
+  gap: 3px; 
   border-radius: 7px;
   border: 1px solid #9799A6;
   background: linear-gradient(180deg, #CBCCD3 20%, #FFF 20%, #FFF 80%, #CBCCD3 80%);

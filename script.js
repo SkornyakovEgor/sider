@@ -6,7 +6,7 @@ let counter = 0;
 nextBtn.onclick = () => {
 	counter++;
 	if (counter == tizers.length) {
-		counter = 0;
+		counter = 0; 
 	};
 
 	changeActive(counter);
